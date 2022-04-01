@@ -1,0 +1,12 @@
+.flex-container{
+gap: 20px;
+align-items: center;
+display: flex;
+height: 100vh;
+}
+ .flex-item{
+ background-color: orangered;
+ padding: 50px;
+ align-items: center;
+ height: 100px;
+ }
